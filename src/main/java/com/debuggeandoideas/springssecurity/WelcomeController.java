@@ -1,6 +1,5 @@
-package com.debuggeandoideas.springssecuritybasic;
+package com.debuggeandoideas.springssecurity;
 
-import org.springframework.context.annotation.ComponentScan;
 import org.springframework.security.access.annotation.Secured;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

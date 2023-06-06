@@ -1,4 +1,4 @@
-package com.debuggeandoideas.springssecuritybasic;
+package com.debuggeandoideas.springssecurity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
